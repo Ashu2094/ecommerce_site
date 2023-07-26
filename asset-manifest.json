@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/ecommerce_site/static/js/main.994020b1.js",
+    "index.html": "/ecommerce_site/index.html",
+    "main.994020b1.js.map": "/ecommerce_site/static/js/main.994020b1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.994020b1.js"
+  ]
+}
